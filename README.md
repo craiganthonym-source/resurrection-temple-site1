@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26529118/README.md)[# Resurrection Temple — resurrectiontemple.com
+[README.md](https://github.com/user-attachments/files/26529550/README.md)[Upl# Resurrection Temple — resurrectiontemple.com
 ## Netlify + Railway Deployment Guide
 
 ### Architecture
@@ -121,4 +121,4 @@ Both Netlify and Railway auto-deploy. Live in ~60 seconds.
   Domain (GoDaddy):   ~$15/year
   Stripe:             2.9% + 30c per transaction
   Total fixed:        ~$5/month
-Uploading README.md…]()
+oading README.md…]()
